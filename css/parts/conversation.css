@@ -1,0 +1,7 @@
+@media screen and (max-width: 580px) {
+  .conversation .section-container div:nth-child(1) {
+    order: 1; }
+  .conversation .section-container div:nth-child(2) {
+    order: 2; } }
+
+/*# sourceMappingURL=conversation.css.map */

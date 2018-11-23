@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url("../fonts/Poppins-Bold.eot"), url("../fonts/Poppins-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Poppins-Bold.woff2") format("woff2"), url("../fonts/Poppins-Bold.woff") format("woff"), url("../fonts/Poppins-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: 'OpenSans-Sans';
+  src: url("../fonts/OpenSans-Regular.eot"), url("../fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Regular.woff2") format("woff2"), url("../fonts/OpenSans-Regular.woff") format("woff"), url("../fonts/OpenSans-Regular-Bold.ttf") format("truetype"); }
+
+/*# sourceMappingURL=mixins.css.map */
